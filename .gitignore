@@ -1,0 +1,11 @@
+
+*.lock
+*.bin
+app/.gradle/8.0/checksums/checksums.lock
+app/.gradle/8.0/executionHistory/executionHistory.bin
+app/.gradle/8.0/executionHistory/executionHistory.lock
+app/.gradle/file-system.probe
+app/.gradle/8.0/checksums/checksums.lock
+*.lock
+*.bin
+*.flat
