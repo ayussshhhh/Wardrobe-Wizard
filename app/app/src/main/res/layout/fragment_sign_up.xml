@@ -19,7 +19,6 @@
             android:padding="20dp">
 
             <EditText
-                android:id="@+id/signup_username"
                 android:layout_width="300dp"
                 android:layout_height="60dp"
                 android:layout_gravity="center"
@@ -32,7 +31,6 @@
                 android:background="@drawable/edittext_bg"/>
 
             <EditText
-                android:id="@+id/signup_email"
                 android:layout_width="300dp"
                 android:layout_height="60dp"
                 android:layout_gravity="center"
@@ -45,7 +43,6 @@
                 android:background="@drawable/edittext_bg"/>
 
             <EditText
-                android:id="@+id/signup_password"
                 android:layout_width="300dp"
                 android:layout_height="60dp"
                 android:layout_gravity="center"
@@ -59,7 +56,6 @@
                 android:background="@drawable/edittext_bg"/>
 
             <EditText
-                android:id="@+id/signup_pass_confirm"
                 android:layout_width="300dp"
                 android:layout_height="60dp"
                 android:layout_gravity="center"
@@ -73,7 +69,6 @@
                 android:background="@drawable/edittext_bg"/>
 
             <Button
-                android:id="@+id/signup_button"
                 android:layout_width="300dp"
                 android:layout_height="60dp"
                 android:layout_gravity="center"

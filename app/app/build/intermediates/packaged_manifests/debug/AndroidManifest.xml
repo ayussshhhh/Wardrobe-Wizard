@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.wardrobe_wizard"
+    package="com.example.wardrobewizard"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="24"
+        android:minSdkVersion="26"
         android:targetSdkVersion="33" />
 
     <permission
-        android:name="com.example.wardrobe_wizard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.example.wardrobewizard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.example.wardrobe_wizard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.example.wardrobewizard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:allowBackup="true"
@@ -26,17 +26,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.WardrobeWizard" >
+        android:theme="@style/Theme.Wardrobe_Wizard" >
         <activity
-            android:name="com.example.wardrobe_wizard.HomePage"
-            android:exported="false" >
-        </activity>
+            android:name="com.example.wardrobewizard.HomePage"
+            android:exported="false" />
         <activity
-            android:name="com.example.wardrobe_wizard.EntryPage"
-            android:exported="true" >
-        </activity>
+            android:name="com.example.wardrobewizard.ViewPagerAdapter"
+            android:exported="false" />
         <activity
-            android:name="com.example.wardrobe_wizard.SplashPage"
+            android:name="com.example.wardrobewizard.EntryPage"
+            android:exported="false" />
+        <activity
+            android:name="com.example.wardrobewizard.SplashPage"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -45,16 +46,9 @@
             </intent-filter>
         </activity>
 
-        <meta-data
-            android:name="preloaded_fonts"
-            android:resource="@array/preloaded_fonts" />
-        <meta-data
-            android:name="preloaded_fonts"
-            android:resource="@array/preloaded_fonts" />
-
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.example.wardrobe_wizard.androidx-startup"
+            android:authorities="com.example.wardrobewizard.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"
