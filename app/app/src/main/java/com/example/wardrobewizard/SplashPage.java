@@ -21,7 +21,7 @@ public class SplashPage extends AppCompatActivity {
         this.setContentView(layout.activity_splash_page);
         Toast.makeText(this, "Wardrobe Wizard", Toast.LENGTH_SHORT).show();
 
-        int videoResourceID = raw.logo;
+        int videoResourceID = raw.logoanimation;
         this.vv = (VideoView)this.findViewById(id.videoView);
         Uri videoUri = Uri.parse("android.resource://" + this.getPackageName() + "/" + videoResourceID);
         this.vv.setVideoURI(videoUri);

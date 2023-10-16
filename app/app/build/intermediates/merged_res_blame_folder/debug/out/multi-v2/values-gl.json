@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.wardrobewizard.app-mergeDebugResources-26:/values-gl/values-gl.xml",
+            "outputFile": "com.example.wardrobewizard.app-mergeDebugResources-27:/values-gl/values-gl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\b5364afbc06c95c72352e38d6ea75d02\\transformed\\appcompat-1.6.1\\res\\values-gl\\values-gl.xml",

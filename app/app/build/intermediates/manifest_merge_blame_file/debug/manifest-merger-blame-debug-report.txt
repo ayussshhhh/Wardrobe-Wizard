@@ -8,97 +8,131 @@
 8        android:minSdkVersion="26"
 9        android:targetSdkVersion="33" />
 10
-11    <permission
-11-->[androidx.core:core:1.9.0] C:\Users\ayush\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
-12        android:name="com.example.wardrobewizard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-12-->[androidx.core:core:1.9.0] C:\Users\ayush\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
-13        android:protectionLevel="signature" />
-13-->[androidx.core:core:1.9.0] C:\Users\ayush\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+11    <uses-feature
+11-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:5:5-7:36
+12        android:name="android.hardware.camera"
+12-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:6:9-47
+13        android:required="false" />
+13-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:7:9-33
 14
-15    <uses-permission android:name="com.example.wardrobewizard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-15-->[androidx.core:core:1.9.0] C:\Users\ayush\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-15-->[androidx.core:core:1.9.0] C:\Users\ayush\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
-16
-17    <application
-17-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:5:5-32:19
-18        android:allowBackup="true"
-18-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:6:9-35
-19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.9.0] C:\Users\ayush\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
-20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:7:9-65
-21        android:debuggable="true"
-22        android:extractNativeLibs="false"
-23        android:fullBackupContent="@xml/backup_rules"
-23-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:8:9-54
-24        android:icon="@mipmap/ic_launcher"
-24-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:9:9-43
-25        android:label="@string/app_name"
-25-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:10:9-41
-26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:11:9-54
-27        android:supportsRtl="true"
-27-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:12:9-35
-28        android:testOnly="true"
-29        android:theme="@style/Theme.Wardrobe_Wizard" >
-29-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:13:9-53
-30        <activity
-30-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:15:9-17:40
-31            android:name="com.example.wardrobewizard.HomePage"
-31-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:16:13-37
-32            android:exported="false" />
-32-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:17:13-37
-33        <activity
-33-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:18:9-20:40
-34            android:name="com.example.wardrobewizard.ViewPagerAdapter"
-34-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:19:13-45
-35            android:exported="false" />
-35-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:20:13-37
-36        <activity
-36-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:21:9-23:40
-37            android:name="com.example.wardrobewizard.EntryPage"
-37-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:22:13-38
-38            android:exported="false" />
-38-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:23:13-37
-39        <activity
-39-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:24:9-31:20
-40            android:name="com.example.wardrobewizard.SplashPage"
-40-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:25:13-39
-41            android:exported="true" >
-41-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:26:13-36
-42            <intent-filter>
-42-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:27:13-30:29
-43                <action android:name="android.intent.action.MAIN" />
-43-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:28:17-69
-43-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:28:25-66
-44
-45                <category android:name="android.intent.category.LAUNCHER" />
-45-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:29:17-77
-45-->C:\Users\ayush\Documents\GitHub\Wardrobe-Wizard\app\app\src\main\AndroidManifest.xml:29:27-74
-46            </intent-filter>
-47        </activity>
-48
-49        <provider
-49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-50            android:name="androidx.startup.InitializationProvider"
-50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-51            android:authorities="com.example.wardrobewizard.androidx-startup"
-51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-52            android:exported="false" >
-52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-53            <meta-data
-53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-55                android:value="androidx.startup" />
-55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-56            <meta-data
-56-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ayush\.gradle\caches\transforms-3\d78e4e26e1aefc152d0ee4dc6a642534\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-57-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ayush\.gradle\caches\transforms-3\d78e4e26e1aefc152d0ee4dc6a642534\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-58                android:value="androidx.startup" />
-58-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ayush\.gradle\caches\transforms-3\d78e4e26e1aefc152d0ee4dc6a642534\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-59        </provider>
-60    </application>
-61
-62</manifest>
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:9:5-67
+15-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:9:22-64
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:10:5-65
+16-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:10:22-62
+17
+18    <permission
+18-->[androidx.core:core:1.9.0] C:\Users\ayush\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+19        android:name="com.example.wardrobewizard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.9.0] C:\Users\ayush\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.9.0] C:\Users\ayush\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.example.wardrobewizard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.9.0] C:\Users\ayush\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.9.0] C:\Users\ayush\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:12:5-53:19
+25        android:allowBackup="true"
+25-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:13:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.9.0] C:\Users\ayush\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+27        android:dataExtractionRules="@xml/data_extraction_rules"
+27-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:14:9-65
+28        android:debuggable="true"
+29        android:extractNativeLibs="false"
+30        android:fullBackupContent="@xml/backup_rules"
+30-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:15:9-54
+31        android:icon="@mipmap/ic_launcher"
+31-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:16:9-43
+32        android:label="@string/app_name"
+32-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:17:9-41
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:18:9-54
+34        android:supportsRtl="true"
+34-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:19:9-35
+35        android:testOnly="true"
+36        android:theme="@style/Theme.Wardrobe_Wizard" >
+36-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:20:9-53
+37        <activity
+37-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:22:9-24:40
+38            android:name="com.example.wardrobewizard.ShoppingPage"
+38-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:23:13-41
+39            android:exported="false" />
+39-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:24:13-37
+40        <activity
+40-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:25:9-27:40
+41            android:name="com.example.wardrobewizard.ClothDetail"
+41-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:26:13-40
+42            android:exported="false" />
+42-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:27:13-37
+43        <activity
+43-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:28:9-32:20
+44            android:name="com.example.wardrobewizard.ClothViewPage"
+44-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:29:13-42
+45            android:exported="true" >
+45-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:30:13-36
+46        </activity>
+47        <activity
+47-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:33:9-37:20
+48            android:name="com.example.wardrobewizard.HomePage"
+48-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:34:13-37
+49            android:exported="true" >
+49-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:35:13-36
+50        </activity>
+51        <activity
+51-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:38:9-40:40
+52            android:name="com.example.wardrobewizard.ViewPagerAdapter"
+52-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:39:13-45
+53            android:exported="false" />
+53-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:40:13-37
+54        <activity
+54-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:41:9-43:40
+55            android:name="com.example.wardrobewizard.EntryPage"
+55-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:42:13-38
+56            android:exported="false" />
+56-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:43:13-37
+57        <activity
+57-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:44:9-52:20
+58            android:name="com.example.wardrobewizard.SplashPage"
+58-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:45:13-39
+59            android:exported="true" >
+59-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:46:13-36
+60            <intent-filter>
+60-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:47:13-51:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:48:17-69
+61-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:48:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:50:17-77
+63-->C:\Users\ayush\Downloads\app2\app\src\main\AndroidManifest.xml:50:27-74
+64            </intent-filter>
+65        </activity>
+66
+67        <provider
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+68            android:name="androidx.startup.InitializationProvider"
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+69            android:authorities="com.example.wardrobewizard.androidx-startup"
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+70            android:exported="false" >
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+71            <meta-data
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+72                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+73                android:value="androidx.startup" />
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ayush\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+74            <meta-data
+74-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ayush\.gradle\caches\transforms-3\d78e4e26e1aefc152d0ee4dc6a642534\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+75                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+75-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ayush\.gradle\caches\transforms-3\d78e4e26e1aefc152d0ee4dc6a642534\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+76                android:value="androidx.startup" />
+76-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ayush\.gradle\caches\transforms-3\d78e4e26e1aefc152d0ee4dc6a642534\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+77        </provider>
+78    </application>
+79
+80</manifest>

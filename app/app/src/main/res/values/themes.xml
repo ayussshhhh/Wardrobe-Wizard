@@ -6,8 +6,4 @@
     </style>
 
     <style name="Theme.Wardrobe_Wizard" parent="Base.Theme.Wardrobe_Wizard" />
-    <style name="Theme.Wardrobe_Wizard.NoActionBar">
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
-    </style>
 </resources>

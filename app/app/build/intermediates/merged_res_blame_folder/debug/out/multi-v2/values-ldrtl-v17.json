@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.wardrobewizard.app-mergeDebugResources-26:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "com.example.wardrobewizard.app-mergeDebugResources-27:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\7e7258815cd840f091c81036491fe249\\transformed\\material-1.9.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",

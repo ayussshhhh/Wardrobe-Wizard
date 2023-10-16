@@ -1,138 +1,266 @@
 [
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_pant.jpg.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\pant.jpg"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/drawable_entry_bg.png.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/drawable/entry_bg.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_photo_library_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_photo_library_24.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/layout_activity_home_page.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/layout/activity_home_page.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\raw_logo.mp4.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\raw\\logo.mp4"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/drawable_baseline_email_24.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/drawable/baseline_email_24.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/layout_fragment_sign_up.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/layout/fragment_sign_up.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_hm.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\hm.png"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/drawable_baseline_lock_24.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/drawable/baseline_lock_24.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_add_26.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_add_26.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_misc.jpg.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\misc.jpg"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_add_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_add_shopping_cart_24.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_img.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\img.png"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/font_aclonica.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/font/aclonica.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_sell_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_sell_24.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/drawable_baseline_home_24.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/drawable/baseline_home_24.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_sample_profile.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\sample_profile.png"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/drawable_baseline_person_24.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/drawable/baseline_person_24.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/layout_fragment_log_in.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/layout/fragment_log_in.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\layout_fragment_log_in.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\layout\\fragment_log_in.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_skirts.jpg.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\skirts.jpg"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/layout_activity_entry_page.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/layout/activity_entry_page.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\layout_activity_shopping_page.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\layout\\activity_shopping_page.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/drawable_baseline_add_circle_24.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/drawable/baseline_add_circle_24.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_wb_sunny_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_wb_sunny_24.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/layout_activity_view_pager_adapter.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/layout/activity_view_pager_adapter.xml"
+        "merged": "com.example.wardrobewizard.app-merged_res-29:/layout_fragment_sign_up.xml.flat",
+        "source": "com.example.wardrobewizard.app-main-31:/layout/fragment_sign_up.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/xml_backup_rules.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_profile.jpeg.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\profile.jpeg"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/drawable_profile_button.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/drawable/profile_button.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_settings_24.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_winterclothes.jpg.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\winterclothes.jpg"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\layout_activity_entry_page.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\layout\\activity_entry_page.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_ajio.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\ajio.png"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/raw_logo.mp4.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/raw/logo.mp4"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\layout_activity_home_page.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\layout\\activity_home_page.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/layout_activity_splash_page.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/layout/activity_splash_page.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\raw_logoanimation.mp4.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\raw\\logoanimation.mp4"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\layout_fragment_sign_up.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\layout\\fragment_sign_up.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_edittext_bg.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\edittext_bg.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/drawable_baseline_password_24.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/drawable/baseline_password_24.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/drawable_edittext_bg.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/drawable/edittext_bg.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_password_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_password_24.xml"
     },
     {
-        "merged": "com.example.wardrobewizard.app-merged_res-28:/drawable_baseline_settings_24.xml.flat",
-        "source": "com.example.wardrobewizard.app-main-30:/drawable/baseline_settings_24.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_coat.jpg.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\coat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_meso.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\meso.png"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_myntra.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\myntra.png"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_favorite_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_favorite_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_shirt.jpg.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\shirt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\layout_activity_cloth_view_page.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\layout\\activity_cloth_view_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_photo_camera_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\layout_clothes_view.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\layout\\clothes_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_camera_alt_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_amazon.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\amazon.png"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_entry_bg.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\entry_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_profile_button.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\profile_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_newspaper_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_newspaper_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_onepiece.jpg.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\onepiece.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_flipkart.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\flipkart.png"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_shoes.jpg.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\shoes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\layout_activity_splash_page.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\layout\\activity_splash_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_tops.jpg.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\tops.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\layout_activity_cloth_detail.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\layout\\activity_cloth_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-merged_res-29:\\drawable_baseline_add_circle_24.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.0\\com.example.wardrobewizard.app-main-31:\\drawable\\baseline_add_circle_24.xml"
     }
 ]
